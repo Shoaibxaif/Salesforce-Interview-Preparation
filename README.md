@@ -9,7 +9,7 @@
 **Q1. What is meant by “Cloud”?**
 **A1.** The term “Cloud” refers to a Network or Internet. Cloud can provide services over networks — either public networks or private networks like WAN or LAN.  
 
-**Q2. What are some common applications that run in the cloud?**
+**Q2. What are some common applications that run in the cloud?**  
 **A2.** Applications such as e-mail, web conferencing, and customer relationship management (CRM) all run in the cloud.
 **Q3. Define Cloud Computing.**
 **A3.** Cloud computing is defined as a mode for enabling convenient, on-demand network access to a shared pool of configurable and reliable computing resources (like networks, servers, storage, applications, and services) that can be manipulated, configured, and accessed remotely.
