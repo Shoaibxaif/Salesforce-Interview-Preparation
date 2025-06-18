@@ -21,14 +21,15 @@
 
 ### **Practice Questions and Answers**
 
-#### **Multiple Choice Questions (MCQs)**
+#### **Multiple Choice Questions (MCQs)**  
 
-**Q1. Which of the following best defines Cloud Computing?**
- A. Local network access to applications
- B. On-demand access to a shared pool of configurable computing resources
- C. Installing applications on a desktop
- D. Access to internet via satellite
-✅ **Answer:** B
+**Q1. Which of the following best defines Cloud Computing?**  
+ A. Local network access to applications  
+ B. On-demand access to a shared pool of configurable computing resources  
+ C. Installing applications on a desktop  
+ D. Access to internet via satellite  
+✅ **Answer:** B  
+
 **Q2. Which of the following applications typically run in the cloud?**
  A. Paint
  B. Calculator
